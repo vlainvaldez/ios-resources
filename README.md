@@ -37,6 +37,6 @@ resources for learning iOS development with swift
 
 ## TableViews
 
-- [Self Sizing TableView Cell]
-	- (https://pspdfkit.com/blog/2018/self-sizing-table-view-cells/)
+- Self Sizing TableView Cell
+	- https://pspdfkit.com/blog/2018/self-sizing-table-view-cells/
 	- 
