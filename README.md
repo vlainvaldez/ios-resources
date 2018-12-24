@@ -1,6 +1,6 @@
 # iOS Development-Resources
-resources for learning iOS development with swift
 
+resources for learning iOS development with swift
 
 ## YouTube Channels To Subscribe
 
@@ -16,9 +16,21 @@ resources for learning iOS development with swift
 - [John Sundell](https://twitter.com/johnsundell)
 - [NSHipster](https://twitter.com/NSHipster)
 
-## Sites 
+## Sites
 
 - [Swift By Sundell](https://www.swiftbysundell.com/)
 - [NS Hipster](https://nshipster.com/)
 - [Raywenderlich](https://www.raywenderlich.com/ios)
 - [Soroush Khanlou](http://khanlou.com/)
+- [Cocoa with Love](http://www.cocoawithlove.com/)
+- [Swift Talk](https://www.objc.io/)
+- [Ole Begemann](https://oleb.net/)
+- [iOS Dev Weekly](https://iosdevweekly.com/)
+- [Little Bites of Cocoa](https://littlebitesofcocoa.com/)
+- [Natasha The Robot](https://www.natashatherobot.com/)
+- [Erica Sadun](https://ericasadun.com/)
+- [Mike Ash](https://www.mikeash.com/pyblog/)
+- [Cocoa Is My Girlfriend](http://www.cimgf.com/)
+- [Theo Cacao](http://theocacao.com/)
+- [Swiftjective C](https://www.swiftjectivec.com/)
+- [Ash Furrow](https://ashfurrow.com/)
