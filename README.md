@@ -1,4 +1,4 @@
-# ios-resources
+# iOS Development-Resources
 resources for learning iOS development with swift
 
 
