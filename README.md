@@ -34,3 +34,9 @@ resources for learning iOS development with swift
 - [Theo Cacao](http://theocacao.com/)
 - [Swiftjective C](https://www.swiftjectivec.com/)
 - [Ash Furrow](https://ashfurrow.com/)
+
+## TableViews
+
+- [Self Sizing TableView Cell]
+	- (https://pspdfkit.com/blog/2018/self-sizing-table-view-cells/)
+	- 
