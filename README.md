@@ -40,3 +40,5 @@ resources for learning iOS development with swift
 - Self Sizing TableView Cell
 	- https://pspdfkit.com/blog/2018/self-sizing-table-view-cells/
 	- 
+
+- [Swift Enums and UITableView Sections](https://medium.com/swift-programming/swift-enums-and-uitableview-sections-1806b74b8138)
