@@ -15,6 +15,31 @@ resources for learning iOS development with swift
 - [Paul Hudson](https://twitter.com/twostraws)
 - [John Sundell](https://twitter.com/johnsundell)
 - [NSHipster](https://twitter.com/NSHipster)
+- [Dave Delong](https://twitter.com/davedelong)
+- [Erica Sadun](https://twitter.com/ericasadun)
+- [Peter Steinberger](https://twitter.com/steipete)
+- [Steve Troughton-Smith](https://twitter.com/stroughtonsmith)
+- [Chris Eidhof](https://twitter.com/chriseidhof)
+- [Nick Lockwood](https://twitter.com/nicklockwood)
+- [Max Howell](https://twitter.com/mxcl)
+- [Matthias Tretter](https://twitter.com/myell0w)
+- [Harlan Haskins](https://twitter.com/harlanhaskins)
+- [Marin Todorov](https://twitter.com/icanzilb)
+- [Guilherme Rambo](https://twitter.com/_inside)
+- [Swift over Coffee](https://twitter.com/swiftovercoffee)
+- [Jazbo](https://twitter.com/bugKrusha)
+- [Ben Cohen](https://twitter.com/AirspeedSwift)
+- [Ben Scheirman](https://twitter.com/subdigital)
+- [Dave Verwer](https://twitter.com/daveverwer)
+- [NatashaTheRobot](https://twitter.com/NatashaTheRobot)
+- [Ole Begemann](https://twitter.com/olebegemann)
+- [Tyler Fox](https://twitter.com/smileyborg)
+- [Joe Groff](https://twitter.com/jckarter)
+- [Swift Language](https://twitter.com/SwiftLang)
+- [Nate Cook](https://twitter.com/nnnnnnnn)
+- [Ellen Shapiro](https://twitter.com/designatednerd)
+- [Brandon Williams](https://twitter.com/mbrandonw)
+- [Greg Heo](https://twitter.com/gregheo)
 
 ## Sites
 
@@ -39,6 +64,6 @@ resources for learning iOS development with swift
 
 - Self Sizing TableView Cell
 	- https://pspdfkit.com/blog/2018/self-sizing-table-view-cells/
-	- 
+	-
 
 - [Swift Enums and UITableView Sections](https://medium.com/swift-programming/swift-enums-and-uitableview-sections-1806b74b8138)
