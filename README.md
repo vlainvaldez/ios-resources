@@ -2,6 +2,9 @@
 
 resources for learning iOS development with swift
 
+## XCODE
+[XCode Shortcuts](https://github.com/roblack/xCodeShortcuts/blob/master/XcodeShortcuts.pdf)
+
 ## YouTube Channels To Subscribe
 
 - [Sean Allen](https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw)
