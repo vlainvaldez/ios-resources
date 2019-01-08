@@ -38,6 +38,10 @@ resources for learning iOS development with swift
 - [Swiftjective C](https://www.swiftjectivec.com/)
 - [Ash Furrow](https://ashfurrow.com/)
 
+## UIViews 
+
+- [Writing Re-Usable iOS UI Code with Generics: An exploration of a view system architecture](https://medium.com/@nathantannar4/writing-re-usable-ios-ui-code-with-generics-an-exploration-of-a-view-system-architecture-22f82c073165)
+
 ## TableViews
 
 - Self Sizing TableView Cell
@@ -50,3 +54,4 @@ resources for learning iOS development with swift
 ## Protocols
 
 - [Different Flavours of Protocols](https://swiftindepth.com/2019-01-01/reasoning-about-protocols)
+
