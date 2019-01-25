@@ -37,6 +37,7 @@ resources for learning iOS development with swift
 - [Theo Cacao](http://theocacao.com/)
 - [Swiftjective C](https://www.swiftjectivec.com/)
 - [Ash Furrow](https://ashfurrow.com/)
+- [theswiftdev](https://theswiftdev.com)
 
 ## UIViews 
 
