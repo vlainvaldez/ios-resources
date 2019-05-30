@@ -60,3 +60,6 @@ resources for learning iOS development with swift
 ## Architecture
 
 - [MVVM Tutorial by Raywanderlich](https://github.com/ragotrebor/mvvm-RWDevCon)
+
+## ViewModel
+- [RxSwift + MVVM: how to feed ViewModels](https://medium.com/blablacar-tech/rxswift-mvvm-66827b8b3f10)
