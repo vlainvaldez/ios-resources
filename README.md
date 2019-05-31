@@ -63,3 +63,5 @@ resources for learning iOS development with swift
 
 ## ViewModel
 - [RxSwift + MVVM: how to feed ViewModels](https://medium.com/blablacar-tech/rxswift-mvvm-66827b8b3f10)
+	- [How to integrate RxSwift in your MVVM architecture](https://benoitpasquier.com/integrate-rxswift-in-mvvm/)
+	- [RxSwift & MVVM - An alternative structure for your ViewModel](https://benoitpasquier.com/rxswift-mvvm-alternative-structure-for-viewmodel/)
