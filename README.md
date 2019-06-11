@@ -65,3 +65,6 @@ resources for learning iOS development with swift
 - [RxSwift + MVVM: how to feed ViewModels](https://medium.com/blablacar-tech/rxswift-mvvm-66827b8b3f10)
 	- [How to integrate RxSwift in your MVVM architecture](https://benoitpasquier.com/integrate-rxswift-in-mvvm/)
 	- [RxSwift & MVVM - An alternative structure for your ViewModel](https://benoitpasquier.com/rxswift-mvvm-alternative-structure-for-viewmodel/)
+
+## IoT
+[Communicate between iOS and Raspberry Pi using MQTT](https://www.raspberrypi.org/forums/viewtopic.php?t=196010)
