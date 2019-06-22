@@ -39,6 +39,10 @@ resources for learning iOS development with swift
 - [Ash Furrow](https://ashfurrow.com/)
 - [theswiftdev](https://theswiftdev.com)
 
+## Techniques
+
+- [Point-Free is a video series exploring functional programming and Swift](https://www.pointfree.co)
+
 ## UIViews 
 
 - [Writing Re-Usable iOS UI Code with Generics: An exploration of a view system architecture](https://medium.com/@nathantannar4/writing-re-usable-ios-ui-code-with-generics-an-exploration-of-a-view-system-architecture-22f82c073165)
@@ -65,3 +69,8 @@ resources for learning iOS development with swift
 - [RxSwift + MVVM: how to feed ViewModels](https://medium.com/blablacar-tech/rxswift-mvvm-66827b8b3f10)
 	- [How to integrate RxSwift in your MVVM architecture](https://benoitpasquier.com/integrate-rxswift-in-mvvm/)
 	- [RxSwift & MVVM - An alternative structure for your ViewModel](https://benoitpasquier.com/rxswift-mvvm-alternative-structure-for-viewmodel/)
+
+## SwiftUI
+-[Movie app to explore SwiftUI + Combine using MVVM](https://github.com/andremartingo/SwiftUI-Combine-Movies)
+- [Introduction to Binding in SwiftUI](https://www.youtube.com/watch?v=nljm495-hIc&feature=youtu.be)
+
