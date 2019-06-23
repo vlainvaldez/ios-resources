@@ -74,3 +74,6 @@ resources for learning iOS development with swift
 -[Movie app to explore SwiftUI + Combine using MVVM](https://github.com/andremartingo/SwiftUI-Combine-Movies)
 - [Introduction to Binding in SwiftUI](https://www.youtube.com/watch?v=nljm495-hIc&feature=youtu.be)
 
+=======
+## IoT
+[Communicate between iOS and Raspberry Pi using MQTT](https://www.raspberrypi.org/forums/viewtopic.php?t=196010)
