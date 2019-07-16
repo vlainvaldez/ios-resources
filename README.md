@@ -39,6 +39,13 @@ resources for learning iOS development with swift
 - [Ash Furrow](https://ashfurrow.com/)
 - [theswiftdev](https://theswiftdev.com)
 
+## The @swiftbysundell concurrency power pack 🔀🚀
+[Task-based concurrency in Swift](https://www.swiftbysundell.com/posts/task-based-concurrency-in-swift)
+[A deep dive into Grand Central Dispatch in Swift](https://www.swiftbysundell.com/posts/a-deep-dive-into-grand-central-dispatch-in-swift)
+[Avoiding race conditions in Swift](https://www.swiftbysundell.com/posts/avoiding-race-conditions-in-swift)
+[Under the hood of Futures & Promises in Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift)
+[Async/await in Swift unit tests](https://www.swiftbysundell.com/posts/asyncawait-in-swift-unit-tests)
+
 ## UIViews 
 
 - [Writing Re-Usable iOS UI Code with Generics: An exploration of a view system architecture](https://medium.com/@nathantannar4/writing-re-usable-ios-ui-code-with-generics-an-exploration-of-a-view-system-architecture-22f82c073165)
