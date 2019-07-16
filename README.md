@@ -46,6 +46,10 @@ resources for learning iOS development with swift
 [Under the hood of Futures & Promises in Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift)
 [Async/await in Swift unit tests](https://www.swiftbysundell.com/posts/asyncawait-in-swift-unit-tests)
 
+## Techniques
+
+- [Point-Free is a video series exploring functional programming and Swift](https://www.pointfree.co)
+
 ## UIViews 
 
 - [Writing Re-Usable iOS UI Code with Generics: An exploration of a view system architecture](https://medium.com/@nathantannar4/writing-re-usable-ios-ui-code-with-generics-an-exploration-of-a-view-system-architecture-22f82c073165)
@@ -72,6 +76,12 @@ resources for learning iOS development with swift
 - [RxSwift + MVVM: how to feed ViewModels](https://medium.com/blablacar-tech/rxswift-mvvm-66827b8b3f10)
 	- [How to integrate RxSwift in your MVVM architecture](https://benoitpasquier.com/integrate-rxswift-in-mvvm/)
 	- [RxSwift & MVVM - An alternative structure for your ViewModel](https://benoitpasquier.com/rxswift-mvvm-alternative-structure-for-viewmodel/)
+	- [RxSwift & MVVM - An alternative structure for your ViewModel](https://benoitpasquier.com/rxswift-mvvm-alternative-structure-for-viewmodel/)
 
+## SwiftUI
+-[Movie app to explore SwiftUI + Combine using MVVM](https://github.com/andremartingo/SwiftUI-Combine-Movies)
+- [Introduction to Binding in SwiftUI](https://www.youtube.com/watch?v=nljm495-hIc&feature=youtu.be)
+
+=======
 ## IoT
 [Communicate between iOS and Raspberry Pi using MQTT](https://www.raspberrypi.org/forums/viewtopic.php?t=196010)
