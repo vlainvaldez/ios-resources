@@ -48,6 +48,8 @@ resources for learning iOS development with swift
 
 ## Threading
 - [The Beauty of Semaphores in Swift](https://medium.com/@roykronenfeld/semaphores-in-swift-e296ea80f860)
+- [Lazy Loading in UICollectionView using NSOperation and NSOperationQueue in Swift](https://medium.com/@prashant.gtm1001/smart-lazy-loading-in-uicollectionview-using-nsoperation-and-nsoperationqueue-in-ios-b9dfb1128048)
+
 
 ## Techniques
 
