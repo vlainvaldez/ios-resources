@@ -40,11 +40,14 @@ resources for learning iOS development with swift
 - [theswiftdev](https://theswiftdev.com)
 
 ## The @swiftbysundell concurrency power pack 🔀🚀
-[Task-based concurrency in Swift](https://www.swiftbysundell.com/posts/task-based-concurrency-in-swift)
-[A deep dive into Grand Central Dispatch in Swift](https://www.swiftbysundell.com/posts/a-deep-dive-into-grand-central-dispatch-in-swift)
-[Avoiding race conditions in Swift](https://www.swiftbysundell.com/posts/avoiding-race-conditions-in-swift)
-[Under the hood of Futures & Promises in Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift)
-[Async/await in Swift unit tests](https://www.swiftbysundell.com/posts/asyncawait-in-swift-unit-tests)
+- [Task-based concurrency in Swift](https://www.swiftbysundell.com/posts/task-based-concurrency-in-swift)
+- [A deep dive into Grand Central Dispatch in Swift](https://www.swiftbysundell.com/posts/a-deep-dive-into-grand-central-dispatch-in-swift)
+- [Avoiding race conditions in Swift](https://www.swiftbysundell.com/posts/avoiding-race-conditions-in-swift)
+- [Under the hood of Futures & Promises in Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift)
+- [Async/await in Swift unit tests](https://www.swiftbysundell.com/posts/asyncawait-in-swift-unit-tests)
+
+## Threading
+- [The Beauty of Semaphores in Swift](https://medium.com/@roykronenfeld/semaphores-in-swift-e296ea80f860)
 
 ## Techniques
 
