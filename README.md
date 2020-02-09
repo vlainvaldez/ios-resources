@@ -75,6 +75,8 @@ resources for learning iOS development with swift
 
 - [Different Flavours of Protocols](https://swiftindepth.com/2019-01-01/reasoning-about-protocols)
 
+## Carthage Know Whys
+- [How to Carthage Efficiently](https://medium.com/wolox-driving-innovation/how-to-carthage-efficiently-4913b8378898)
 
 ## Architecture
 
