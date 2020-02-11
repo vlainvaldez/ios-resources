@@ -70,6 +70,12 @@ resources for learning iOS development with swift
 
 - [Swift Enums and UITableView Sections](https://medium.com/swift-programming/swift-enums-and-uitableview-sections-1806b74b8138)
 
+## Closures
+
+- [Swift’s closure capturing mechanics](https://www.swiftbysundell.com/articles/swifts-closure-capturing-mechanics/)
+- [Capture lists in Swift: what’s the difference between weak, strong, and unowned references?](https://www.hackingwithswift.com/articles/179/capture-lists-in-swift-whats-the-difference-between-weak-strong-and-unowned-references)
+
+
 
 ## Protocols
 
